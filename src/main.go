@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/aduii/20_go-modules/echo"
+	"github.com/labstack/echo/"
 )
 
 func main() {
